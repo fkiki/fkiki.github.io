@@ -1,14 +1,14 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
-baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
-url: "https://www.rossener.com" # the base hostname & protocol for your site
+title: TDF | What The Fuck is This?
+email: tdf.resmi@gmail.com
+description: Just Share for Mobile Users
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "fkiki.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
+username: TDF Admin
+user_description: Who is me?
 disqus_username: disqus_username
 
 # Social Media
